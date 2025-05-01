@@ -1,0 +1,21 @@
+# Build artifacts
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider/VSCode/Visual Studio settings
+.vscode/
+.idea/
+*.csproj.user
+
+# OS files
+.DS_Store
+Thumbs.db
